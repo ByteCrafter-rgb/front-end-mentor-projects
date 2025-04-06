@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-## My porject
+## My project
 ![Image](./finalOutput.png)
 
 ## Expected
